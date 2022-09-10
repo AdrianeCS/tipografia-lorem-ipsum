@@ -1,0 +1,39 @@
+body
+{
+background-color:   black;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+h1
+{
+    color: cadetblue;
+    font-family: 'Anton', sans-serif;
+}
+
+p
+{
+    color: white;
+    font-size: 1.2em;
+    font-family: 'Rampart One', cursive;
+}
+
+h2
+{
+    color: #1B98E0;
+    font-family: 'Anton', sans-serif
+}
+
+h3 
+{
+color: cornflowerblue;
+font-family: 'Anton', sans-serif
+} 
+ h4{
+    color: cornflowerblue;
+ }
+
+img {
+    border: solid purple 1px;
+}
