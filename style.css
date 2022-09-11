@@ -32,8 +32,15 @@ font-family: 'Anton', sans-serif
 } 
  h4{
     color: cornflowerblue;
+    font-family: 'Anton', sans-serif
+ }
+
+ li{
+    color: cornflowerblue;
+    font-family: 'Anton', sans-serif
  }
 
 img {
-    border: solid purple 1px;
+    border: 10px  #413577ff solid;
+    
 }
